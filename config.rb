@@ -2,9 +2,16 @@
 # Blog settings
 ###
 
-# Time.zone = "UTC"
+Time.zone = "Berlin"
 
-ignore '.idea/*'
+PRODUCTION                      = ENV['PRODUCTION']
+SITE_NAME                       = 'floriankuger.com'
+URL_ROOT                        = 'http://www.floriankugler.com'
+AWS_BUCKET                      = PRODUCTION ? 'floriankugler.com' : 'staging.floriankugler.com'
+AWS_REGION                      = 'eu-west-1'
+AWS_ACCESS_KEY                  = ENV['PERSONAL_AWS_KEY']
+AWS_SECRET                      = ENV['PERSONAL_AWS_SECRET']
+
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
@@ -32,55 +39,45 @@ activate :blog do |blog|
 end
 
 activate :directory_indexes
+activate :gzip
+
+activate :s3_sync do |s3_sync|
+  s3_sync.bucket                     = AWS_BUCKET
+  s3_sync.aws_access_key_id          = AWS_ACCESS_KEY
+  s3_sync.region                     = AWS_REGION
+  s3_sync.aws_secret_access_key      = AWS_SECRET
+  s3_sync.delete                     = false
+  s3_sync.prefer_gzip                = true
+end
+
+activate :cloudfront do |cf|
+  cf.access_key_id = AWS_ACCESS_KEY
+  cf.secret_access_key = AWS_SECRET
+  cf.distribution_id = 'E1P4GB5IBJ6O1K'
+end
+
+activate :s3_redirect do |config|
+  config.bucket                = AWS_BUCKET
+  config.region                = AWS_REGION
+  config.aws_access_key_id     = AWS_ACCESS_KEY
+  config.aws_secret_access_key = AWS_SECRET
+  config.after_build           = false
+end
+
+activate :livereload
+
+after_s3_sync do |destination_paths|
+  invalidate destination_paths[:updated] if PRODUCTION
+end
+
+
 
 page "/feed.xml", layout: false
 
-
-###
-# Page options, layouts, aliases and proxies
-###
-
-# Per-page layout changes:
-#
-# With no layout
-# page "/path/to/file.html", layout: false
-#
-# With alternative layout
-# page "/path/to/file.html", layout: :otherlayout
-#
-# A path which all have the same layout
-# with_layout :admin do
-#   page "/admin/*"
-# end
-
-# Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
-# proxy "/this-page-has-no-template.html", "/template-file.html", locals: {
-#  which_fake_page: "Rendering a fake page with a local variable" }
-
-###
-# Helpers
-###
-
-# Automatic image dimensions on image_tag helper
-# activate :automatic_image_sizes
-
-# Reload the browser automatically whenever files change
-activate :livereload
-
-# Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
-
 set :css_dir, 'stylesheets'
-
 set :js_dir, 'javascripts'
-
 set :images_dir, 'images'
 
-# Build-specific configuration
 configure :build do
   activate :minify_css
   activate :minify_javascript

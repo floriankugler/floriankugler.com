@@ -12,3 +12,9 @@ gem 'middleman-livereload'
 gem 'bitters'
 gem 'bourbon'
 gem 'neat'
+
+gem 'middleman-aws'
+gem 'middleman-s3_sync'
+gem 'middleman-cloudfront'
+gem 'middleman-s3_redirect'
+
