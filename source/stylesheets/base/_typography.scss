@@ -17,7 +17,6 @@ h6 {
   line-height: $header-line-height;
   font-weight: bold;
   text-rendering: optimizeLegibility; // Fix the character spacing for headings
-  letter-spacing: -0.025em;
   margin: ($base-spacing * $header-spacing-factor-top) 0 ($base-spacing * $header-spacing-factor-bottom) 0;
   color: $base-accent-color;
 
@@ -28,6 +27,13 @@ h6 {
   &:first-child {
     margin-bottom: $title-date-spacing;
   }
+}
+
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: -0.025em;
 }
 
 h5,
