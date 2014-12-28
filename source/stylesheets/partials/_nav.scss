@@ -1,12 +1,19 @@
 nav {
-  border-bottom: 1px solid $base-border-color;
-  margin: em(30) 0;
+  @include outer-container;
+//  background-color: $base-accent-color;
+  padding-top: $nav-spacing-top;
+  margin-bottom: $nav-spacing-bottom;
 
   ul {
     display: inline-block;
-    margin-bottom: em(10);
+
+    &.nav-items {
+      float: right;
+      li {
+        display: inline-block;
+        margin-left: $nav-item-spacing;
+      }
+    }
   }
 }
 
-.blog-title {
-}

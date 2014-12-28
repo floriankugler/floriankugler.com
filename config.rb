@@ -12,6 +12,8 @@ AWS_REGION                      = 'eu-west-1'
 AWS_ACCESS_KEY                  = ENV['PERSONAL_AWS_KEY']
 AWS_SECRET                      = ENV['PERSONAL_AWS_SECRET']
 
+set :markdown_engine, :redcarpet
+set :markdown, :fenced_code_blocks => true, :smartypants => true
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
@@ -65,6 +67,8 @@ activate :s3_redirect do |config|
 end
 
 activate :livereload
+activate :syntax
+
 
 after_s3_sync do |destination_paths|
   invalidate destination_paths[:updated] if PRODUCTION

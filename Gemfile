@@ -12,6 +12,8 @@ gem 'middleman-livereload'
 gem 'bitters'
 gem 'bourbon'
 gem 'neat'
+gem 'middleman-syntax'
+gem 'redcarpet'
 
 gem 'middleman-aws'
 gem 'middleman-s3_sync'
