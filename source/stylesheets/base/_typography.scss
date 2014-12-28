@@ -18,7 +18,8 @@ h6 {
   font-weight: bold;
   text-rendering: optimizeLegibility; // Fix the character spacing for headings
   letter-spacing: -0.025em;
-  margin: 0 0 ($base-spacing / 2) 0;
+  margin: ($base-spacing * $header-spacing-factor-top) 0 ($base-spacing * $header-spacing-factor-bottom) 0;
+  color: $base-accent-color;
 
   a {
     text-decoration: none;
@@ -29,7 +30,6 @@ h6 {
   }
 }
 
-h4,
 h5,
 h6 {
   font-weight: normal;
@@ -101,7 +101,7 @@ picture {
 
 blockquote,
 pre {
-  margin: $base-spacing 0;
+  margin: ($base-spacing / 2) 0;
 }
 
 pre {
@@ -124,22 +124,32 @@ cite {
   }
 }
 
-p:first-of-type {
-  margin-top: $first-p-margin-top;
-}
+.article {
+  .date {
+    font-family: $sans-serif;
+    font-weight: normal;
+    color: $medium-gray;
+  }
 
-.date {
-  font-family: $sans-serif;
-  font-weight: normal;
-  color: $medium-gray;
+  & > p:first-of-type {
+    content: " ";
+    margin-top: $h1-font-size * $base-line-height * $base-spacing-factor * $header-spacing-factor-top;
+  }
 }
 
 nav {
+  li {
+    font-family: $sans-serif;
+    font-size: $h5-font-size;
+  }
+
   .blog-title {
     color: $site-title-color;
   }
 
   a {
     color: $medium-gray;
+    text-decoration: none;
   }
 }
+
