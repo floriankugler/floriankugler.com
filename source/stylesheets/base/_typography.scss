@@ -23,7 +23,9 @@ h6 {
   a {
     text-decoration: none;
   }
+}
 
+h1 {
   &:first-child {
     margin-bottom: $title-date-spacing;
   }
@@ -171,3 +173,8 @@ nav {
   }
 }
 
+.archive {
+  .date {
+    color: $medium-gray;
+  }
+}

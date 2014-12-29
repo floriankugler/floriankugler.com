@@ -1,0 +1,18 @@
+---
+pageable: true
+---
+<h1>Archive</h1>
+
+<ul class="archive">
+  <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+    <li>
+      <h3><%= year %></h3>
+      <ul>
+        <% articles.each do |article| %>
+          <li><%= link_to article.title, article %>&nbsp; <span class="date"><%= article.date.strftime('%b %e') %></span></li>
+        <% end %>
+      </ul>
+    </li>
+  <% end %>
+</ul>
+
