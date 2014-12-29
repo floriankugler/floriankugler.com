@@ -24,7 +24,8 @@ $base-border-radius: 3px;
 $base-spacing-factor: 1.5;
 $base-spacing: $base-line-height * $base-spacing-factor * 1em;
 $nav-item-spacing: em(10);
-$nav-spacing-top: em(20);
+$nav-padding-top: em(25);
+$nav-padding-bottom: em(3);
 $nav-spacing-bottom: em(60);
 $title-date-spacing: em(3);
 $article-spacing: $base-spacing * 3;
@@ -47,11 +48,11 @@ $base-background-color: white;
 // Font Colors
 $base-font-color: $dark-gray;
 $base-accent-color: rgba(0, 53, 51, 1);
-$site-title-color: darken($medium-gray, 25);
+$title-color: white;
 
 // Link Colors
 $base-link-color: $base-accent-color;
-$hover-link-color: darken($base-accent-color, 0);
+$hover-link-color: $base-accent-color;
 $base-button-color: $base-link-color;
 $hover-button-color: $hover-link-color;
 

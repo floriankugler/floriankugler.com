@@ -1,19 +1,29 @@
-nav {
-  @include outer-container;
-//  background-color: $base-accent-color;
-  padding-top: $nav-spacing-top;
-  margin-bottom: $nav-spacing-bottom;
+.header {
+  background-color: rgb(122, 122, 122);
+  background-image: url(/images/background.jpg);
+  background-attachment: fixed;
+  background-position: 50% 0%;
+  background-repeat: no-repeat;
+  background-size: auto;
+  -webkit-background-size: auto;
 
-  ul {
-    display: inline-block;
+  nav {
+    @include outer-container;
 
-    &.nav-items {
-      float: right;
-      li {
-        display: inline-block;
-        margin-left: $nav-item-spacing;
+    padding-top: $nav-padding-top;
+    padding-bottom: $nav-padding-bottom;
+    margin-bottom: $nav-spacing-bottom;
+
+    ul {
+      display: inline-block;
+
+      &.nav-items {
+        float: right;
+        li {
+          display: inline-block;
+          margin-left: $nav-item-spacing;
+        }
       }
     }
   }
 }
-

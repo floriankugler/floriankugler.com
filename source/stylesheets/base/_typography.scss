@@ -158,12 +158,16 @@ nav {
   }
 
   .blog-title {
-    color: $site-title-color;
+    color: $title-color;
   }
 
   a {
-    color: $medium-gray;
+    color: $title-color;
     text-decoration: none;
+
+    &:hover {
+      color: $title-color;
+    }
   }
 }
 
