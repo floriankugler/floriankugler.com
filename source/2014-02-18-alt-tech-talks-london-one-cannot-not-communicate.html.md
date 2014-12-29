@@ -1,5 +1,5 @@
 ---
-title: Alt Tech Talks London: One Cannot Not Communicate
+title: "Alt Tech Talks London: One Cannot Not Communicate"
 date: 2014-02-18
 ---
 

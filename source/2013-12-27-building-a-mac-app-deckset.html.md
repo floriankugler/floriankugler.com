@@ -1,5 +1,5 @@
 ---
-title: Building a Mac App: Deckset
+title: "Building a Mac App: Deckset"
 date: 2013-12-27
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: UIKonf presentation — App Optimization with Instruments
+title: "UIKonf presentation: App Optimization with Instruments"
 date: 2013-06-05
 ---
 
