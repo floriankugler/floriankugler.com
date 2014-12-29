@@ -1,0 +1,9 @@
+<% wrap_layout :layout do %>
+
+<article>
+    <h1><%= link_to current_article.title, current_article %></h1>
+    <div class="date"><%= current_article.date.strftime('%B %-d, %Y') %></div>
+    <%= yield %>
+</article>
+
+<% end %>
