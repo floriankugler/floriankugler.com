@@ -6,7 +6,7 @@ Hi -- My name is Florian and I live in Berlin, Germany.
 
 I'm currently working as a software developer and technical author in the iOS and Mac ecosystems. Please see my [projects](/projects.html) page for more details on what I've been working on.
 
-Besides my current professional ventures I'm a deeply curious person and a rational thinker in many fields. First of all, I love to learn more about myself to become a better person. I also love to learn about philosophy, economics, politics, and many related topics to understand the world we're living in and to work towards a better future.
+Besides my current professional ventures I'm a deeply curious person and a rational thinker with interests in many fields. First of all, I love to learn more about myself to become a better person. I also love to learn about philosophy, economics, politics, and many related topics to understand the world we're living in and to work towards a better future.
 
 Although I've been developing software for more than 20 years now, I've pursued lots of other endeavours as well.
 

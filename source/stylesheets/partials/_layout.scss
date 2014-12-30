@@ -3,7 +3,8 @@ body {
 }
 
 #main {
-    @include outer-container;
+  @include outer-container;
+  @include padding(null $outer-padding);
 }
 
 .large-column {

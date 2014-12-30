@@ -6,19 +6,27 @@
   background-repeat: no-repeat;
   background-size: auto;
   -webkit-background-size: auto;
+  @include margin(null auto);
 
   nav {
     @include outer-container;
-
-    padding-top: $nav-padding-top;
-    padding-bottom: $nav-padding-bottom;
+    @include padding($nav-padding-top $outer-padding $nav-padding-bottom $outer-padding);
     margin-bottom: $nav-spacing-bottom;
+    text-align :center;
+
+    @include media($medium-screen-up) {
+      text-align: left;
+      ul {
+        display: inline-block;
+
+        &.nav-items {
+          float: right;
+        }
+      }
+    }
 
     ul {
-      display: inline-block;
-
       &.nav-items {
-        float: right;
         li {
           display: inline-block;
           margin-left: $nav-item-spacing;

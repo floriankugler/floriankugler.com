@@ -1,20 +1,21 @@
 <!doctype html>
 <html>
-  <head>
+<head>
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blog Title<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <link href='http://fonts.googleapis.com/css?family=Share:400,700|Noto+Serif:400,700,400italic,700italic|Share+Tech+Mono'  rel='stylesheet' type='text/css'>
     <%= stylesheet_link_tag "all" %>
-  </head>
-  <body>
+</head>
+<body>
 
-    <%= partial "partials/nav" %>
-    <div id="main" role="main">
-      <%= yield %>
-      <%= partial "partials/footer" %>
-    </div>
-    
-  </body>
+<%= partial "partials/header" %>
+<div id="main" role="main">
+    <%= yield %>
+    <%= partial "partials/footer" %>
+</div>
+
+</body>
 </html>

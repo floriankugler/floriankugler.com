@@ -173,18 +173,25 @@ nav {
   li {
     font-family: $sans-serif;
     font-size: $header-font-size;
-  }
-
-  .blog-title {
-    color: $title-color;
-  }
-
-  a {
-    color: $title-color;
-    text-decoration: none;
-
-    &:hover {
+    a {
       color: $title-color;
+      text-decoration: none;
+
+      &:hover {
+        color: $title-color;
+      }
+    }
+  }
+
+  .nav-items {
+    li {
+      a {
+        color: $light-gray;
+
+        &:hover {
+          color: $title-color;
+        }
+      }
     }
   }
 }

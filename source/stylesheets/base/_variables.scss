@@ -34,12 +34,13 @@ $article-spacing: $base-spacing * 2.5;
 $header-spacing-factor-top: 0.6;
 $header-spacing-factor-bottom: 0.33;
 $image-spacing: $base-spacing * 0.75;
+$outer-padding: 1em;
 
 // Colors
 $blue: #477DCA;
 $dark-gray: #222;
 $medium-gray: #999;
-$light-gray: #DDD;
+$light-gray: #E5E5E5;
 $light-red: #FBE3E4;
 $light-yellow: #FFF6BF;
 $light-green: #E6EFC2;
@@ -51,6 +52,7 @@ $base-background-color: white;
 $base-font-color: $dark-gray;
 $base-accent-color: rgba(0, 53, 51, 1);
 $title-color: white;
+$nav-color: $light-gray;
 
 // Link Colors
 $base-link-color: $base-accent-color;
