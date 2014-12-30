@@ -25,12 +25,6 @@ h6 {
   }
 }
 
-h1 {
-  &:first-child {
-    margin-bottom: $title-date-spacing;
-  }
-}
-
 h1,
 h2,
 h3,
@@ -133,6 +127,12 @@ cite {
 }
 
 article {
+  h1 {
+    &:first-child {
+      margin-bottom: $title-date-spacing;
+    }
+  }
+
   .date {
     font-family: $sans-serif;
     font-weight: normal;
