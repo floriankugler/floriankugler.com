@@ -15,7 +15,9 @@ body {
 }
 
 article {
-  margin-bottom: $article-spacing;
+  &:not(:first-of-type) {
+    margin-top: $article-spacing;
+  }
 
   pre {
     overflow-x: scroll;
@@ -30,20 +32,17 @@ article {
   }
 }
 
-ol {
-  font-size: 1em;
-  font-weight: 500;
+.article-nav {
+  text-align: center;
+  margin: ($base-spacing * 2) 0 ($base-spacing * 1.5) 0;
 
-  li {
-    margin: .5em 0;
+  ul {
+    display: inline-block;
+    margin: 0 auto;
 
-    span {
+    li {
       display: inline-block;
-
-      &:before {
-        content: '/';
-        margin: 0 .3em;
-      }
+      margin: 0 0.5em;
     }
   }
 }

@@ -3,14 +3,8 @@ pageable: false
 per_page: 1
 ---
 
-<ul>
-    <% page_articles.each_with_index do |article, i| %>
-        <li class="article">
-            <article>
-                <h1><%= link_to article.title, article %></h1>
-                <div class="date"><%= article.date.strftime('%B %-d, %Y') %></div>
-                <%= article.body %>
-            </article>
-        </li>
-    <% end %>
-</ul>
+<%= partial "article", :locals => { :article => page_articles.first, :content => :article_body } %>
+
+<% blog.articles[1...5].each do |article| %>
+    <%= partial :article, :locals => { :article => article, :content => :article_summary } %>
+<% end %>

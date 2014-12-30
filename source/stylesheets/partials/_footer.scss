@@ -1,6 +1,6 @@
 footer {
-  border-top: 1px solid $base-border-color;
-  margin: 2em 0;
+  border-top: $base-border;
+  margin: $nav-spacing-bottom*1.5 0 2em 0;
   padding-top: 2em;
   text-align: center;
 
@@ -9,7 +9,7 @@ footer {
 
     li {
       display: inline-block;
-      margin: 0 em(5);
+      margin: 0 0.5em;
     }
   }
 }

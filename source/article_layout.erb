@@ -1,0 +1,17 @@
+<% wrap_layout :layout do %>
+
+<%= partial :article, :locals => { :article => current_article, :content => :article_body } %>
+
+<div class="article-nav">
+    <ul>
+        <% if current_article.next_article %>
+        <li><%= link_to "Next Article", current_article.next_article.url %></li>
+        <% end %>
+        <li><%= link_to "Archive", "/archive.html" %></li>
+        <% if current_article.previous_article %>
+        <li><%= link_to "Previous Article", current_article.previous_article.url %></li>
+        <% end %>
+    </ul>
+</div>
+
+<% end %>

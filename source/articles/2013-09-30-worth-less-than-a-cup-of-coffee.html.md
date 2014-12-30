@@ -5,6 +5,8 @@ date: 2013-09-30
 
 After [Realmac Software](http://www.realmacsoftware.com) had released [Clear](http://www.realmacsoftware.com/clear/) for iOS 7 as a new paid app, the outcry from existing users quickly made them [change their mind](http://www.realmacsoftware.com/blog/some-changes-for-clear) about the pricing model. Now they are offering the iOS 7 upgrade for free to existing Clear users on the iPhone, while only charging for the new universal app. This in turn caused other developers to [complain](https://twitter.com/mattgemmell/status/382906555198631936) about Realmac Software for giving in and participating in the downward price spiral.
 
+READMORE
+
 [David Smith](http://david-smith.org) weighed in with an interesting perspective by [interviewing his wife](http://developingperspective.com/2013/09/27/app-store-pricing/) on this issue. The bottom line is – as [Marco Arment confirms](http://www.marco.org/2013/09/28/underscore-price-dynamics) – that most users will look for a free alternative when presented with a paid upgrade.
 
 Of course this phenomenon is not specific to upgrades, but also affects first time purchases. If there is a *good enough* free alternative, most users will stick with it.

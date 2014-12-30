@@ -141,7 +141,12 @@ article {
 
   & > p:first-of-type {
     content: " ";
-    margin-top: $h1-font-size * $base-line-height * $base-spacing-factor * $header-spacing-factor-top;
+    margin-top: $h1-font-size * $header-line-height * $base-spacing-factor * $header-spacing-factor-top;
+  }
+
+  .read-more {
+    font-family: $sans-serif;
+    text-decoration: none;
   }
 
   ul {
@@ -150,6 +155,17 @@ article {
 
   ol {
     @extend %default-ol;
+  }
+}
+
+.article-nav {
+  ul {
+    li {
+      a {
+        font-family: $sans-serif;
+        text-decoration: none;
+      }
+    }
   }
 }
 
