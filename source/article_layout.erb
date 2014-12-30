@@ -1,6 +1,6 @@
 <% wrap_layout :layout do %>
 
-<%= partial :article, :locals => { :article => current_article, :content => :article_body } %>
+<%= partial "partials/article", :locals => { :article => current_article, :content => "partials/article_body" } %>
 
 <div class="article-nav">
     <ul>

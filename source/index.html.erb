@@ -3,8 +3,8 @@ pageable: false
 per_page: 1
 ---
 
-<%= partial "article", :locals => { :article => page_articles.first, :content => :article_body } %>
+<%= partial "partials/article", :locals => { :article => page_articles.first, :content => "partials/article_body" } %>
 
 <% blog.articles[1...5].each do |article| %>
-    <%= partial :article, :locals => { :article => article, :content => :article_summary } %>
+    <%= partial "partials/article", :locals => { :article => article, :content => "partials/article_summary" } %>
 <% end %>
