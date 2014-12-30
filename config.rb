@@ -47,7 +47,7 @@ activate :s3_redirect do |config|
   config.after_build           = false
 end
 
-# activate :livereload
+activate :livereload
 activate :syntax
 
 
