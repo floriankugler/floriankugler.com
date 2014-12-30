@@ -156,7 +156,7 @@ article {
 nav {
   li {
     font-family: $sans-serif;
-    font-size: $h5-font-size;
+    font-size: $header-font-size;
   }
 
   .blog-title {
@@ -170,6 +170,15 @@ nav {
     &:hover {
       color: $title-color;
     }
+  }
+}
+
+footer {
+  font-family: $sans-serif;
+  font-size: $footer-font-size;
+
+  a {
+    text-decoration: none;
   }
 }
 
