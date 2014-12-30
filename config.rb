@@ -36,7 +36,7 @@ end
 activate :cloudfront do |cf|
   cf.access_key_id = AWS_ACCESS_KEY
   cf.secret_access_key = AWS_SECRET
-  cf.distribution_id = 'E1P4GB5IBJ6O1K'
+  cf.distribution_id = 'E1BDI6N12Y5YNM'
 end
 
 activate :s3_redirect do |config|
