@@ -1,0 +1,8 @@
+.avatar {
+    @include size(em(128));
+    @include border-top-radius(50%);
+    @include border-bottom-radius(50%);
+    @include margin(null null 1em 1em);
+    @include background-image(url(/images/avatar-small.jpg) no-repeat);
+    float: right;
+}
