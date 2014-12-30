@@ -1,0 +1,14 @@
+sudo: false
+language: ruby
+cache: bundler
+rvm:
+- 2.0.0
+script: PRODUCTION=1 bundle exec middleman build
+after_success: PRODUCTION=1 bundle exec rake deploy
+env:
+  global:
+    - secure: "GzFr5jOFmUGKBNZUccrzWHQsGjaRit7RAvbnknBy7Cn2ESkXNNsYJo3IB8pfrKlfDqWQS79sIMgJ5I8OBSvnVVSEjGaXWk2dL0e+FJLPuBaYRjcpLPjD6fhKFYgHzgXmm90z4zYkJYdIpim+ZGiou1/7wnkU9JY4T2jU1mLJXfU="
+    - secure: "UNFXlF5xuRGjmAuCqqum66WKKQinF6am6JS9sqfGpgxSx7kY6XCkycvgwXQoam3YyuCcP8FBv1WlChlOpki0seYzz6EkfkApac2nMReFQKcO8o9EgS7rW89m+Sgbo8JaRP6CsjRwdN+Ib6DbgeGBuisVtzstybjNXwsVsou4WkU="
+branches:
+  only:
+  - master
