@@ -19,6 +19,7 @@ activate :blog do |blog|
   blog.sources = "articles/{year}-{month}-{day}-{title}.html"
   blog.layout = "_article_layout"
   blog.summary_separator = /(READMORE)/
+  blog.publish_future_dated = !PRODUCTION
 end
 
 activate :directory_indexes
