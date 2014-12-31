@@ -7,12 +7,8 @@ body {
   @include padding(null $outer-padding);
 }
 
-.large-column {
-  @include span-columns(8 of 12);
-}
-
-.small-column {
-  @include span-columns(4 of 12);
+.half-column {
+  @include span-columns(6 of 12);
 }
 
 article {
@@ -35,17 +31,60 @@ article {
   }
 }
 
+$arrow-width: 1.45em;
+
 .article-nav {
   text-align: center;
   margin: ($base-spacing * 2) 0 ($base-spacing * 1.5) 0;
+  @include clearfix;
 
   ul {
-    display: inline-block;
+    display: block;
     margin: 0 auto;
 
     li {
-      display: inline-block;
-      margin: 0 0.5em;
+      @include margin(em(5) null);
+
+      @include media($medium-screen-up) {
+        @include span-columns(6 of 12);
+      }
+
+      .arrow {
+        width: $arrow-width;
+      }
+
+      .title {
+        @include clearfix;
+      }
+
+      &.next {
+        text-align: left;
+        padding-right: .5em;
+
+        .title {
+          margin-left: $arrow-width;
+        }
+
+        .arrow {
+          float: left;
+          text-align: right;
+          @include transform(rotateY(180deg));
+        }
+
+      }
+
+      &.previous {
+        text-align: right;
+        padding-left: .5em;
+
+        .title {
+          margin-right: $arrow-width;
+        }
+
+        .arrow {
+          float: right;
+        }
+      }
     }
   }
 }

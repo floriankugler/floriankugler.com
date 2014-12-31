@@ -5,6 +5,8 @@ date: 2014-10-03
 
 A few months ago I started working on the [Functional Programming in Swift](http://www.objc.io/books) book together with [Chris Eidhof](https://twitter.com/chriseidhof) and [Wouter Swierstra](https://twitter.com/wouterswierstra), and we've just released the first version into the wild. It has been a challenging and educational experience, since my knowledge of functional programming was tangential at best when Chris, deeply familiar with functional programming himself, convinced me to join this project.
 
+READMORE
+
 I want to take the opportunity of the release of the book to write up some personal thoughts on how it came to life, as well as how Swift and its more obscure and foreign features (for Objective-C developers at least) have grown on me since.
 
 

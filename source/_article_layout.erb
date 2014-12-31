@@ -4,13 +4,20 @@
 
 <div class="article-nav">
     <ul>
-        <% if current_article.next_article %>
-        <li><%= link_to "Next Article", current_article.next_article.url %></li>
-        <% end %>
-        <li><%= link_to "Archive", "/archive.html" %></li>
-        <% if current_article.previous_article %>
-        <li><%= link_to "Previous Article", current_article.previous_article.url %></li>
-        <% end %>
+        <li class="next">
+            <% if current_article.next_article %>
+                <%= link_to "<div class=\"arrow\">➜</div><div class=\"title\">#{current_article.next_article.title}</div>", current_article.next_article.url %>
+            <% else %>
+                &nbsp;
+            <% end %>
+        </li>
+        <li class="previous">
+            <% if current_article.previous_article %>
+                <%= link_to "<div class=\"arrow\">➜</div><div class=\"title\">#{current_article.previous_article.title}</div>", current_article.previous_article.url %>
+            <% else %>
+                &nbsp;
+            <% end %>
+        </li>
     </ul>
 </div>
 

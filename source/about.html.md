@@ -16,6 +16,6 @@ My not so straightforward academic path just started after working as a freelanc
 
 After a while I decided to leave the world of academia. During my time as a student I had co-founded an elite sports consulting company that I now joined full-time. We mainly worked in track and field as well as in soccer with a focus on individual development and movement technique.
 
-It was one of my partners in this company who first introduced me to [Austrian Economics](http://en.wikipedia.org/wiki/Austrian_School), which proved to be the gateway drug for me to studying self-knowledge and philosophy.
+It was one of my partners in this company who first introduced me to [Austrian Economics](http://en.wikipedia.org/wiki/Austrian_School), which proved to be the gateway drug to exploring self-knowledge and philosophy.
 
 After three exciting and educational years I left the company, joined forces with [Chris](https://twitter.com/chriseidhof) and started to work on my own [projects](/projects.html).
