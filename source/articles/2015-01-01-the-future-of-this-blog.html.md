@@ -1,5 +1,6 @@
 ---
 title: The Future of this Blog
+date: 2015-01-01
 ---
 
 Happy new year!
