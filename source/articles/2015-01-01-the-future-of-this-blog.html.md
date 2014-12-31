@@ -1,6 +1,5 @@
 ---
 title: The Future of this Blog
-published: false
 ---
 
 Happy new year!
@@ -13,9 +12,9 @@ Since I started [objc.io](http://www.objc.io) in June 2013 with [Chris](https://
 
 I want this to change.
 
-I still enjoy technical writing, but I'm deeply interested and passionate about other topics as well. Since my technical writing already has a home at objc.io, I will use my personal blog to write about other topics.
+I still enjoy technical writing, but I'm deeply interested and passionate about other topics as well. Since my technical writing already has a home at objc.io, I will use my personal blog to write about other topics from now on.
 
-Developing software has been part of my life since 20 years, but my interests have always extended beyond the world of technology. Over the last years I've especially been drawn to philosophy, psychology, and economics in the quest to better understand myself and the society around me.
+Developing software has been part of my life since 20 years, but my interests have always extended beyond the world of technology. Over the last years I've especially been drawn to philosophy, psychology, and economics in the quest to better understand and to improve myself, my relationships, and the society around me.
 
 My plan is to pick topics as I encounter them in life, ranging from very personal to societal issues, and to approach them in a rational philosophical manner. Some of it will be kicking around ideas or mere personal opinions, while other parts will be examinations based on more rigorous principles.
 
