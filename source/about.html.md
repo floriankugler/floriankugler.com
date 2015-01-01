@@ -8,11 +8,11 @@ I'm currently working as a software developer and technical author in the iOS an
 
 Besides my current professional ventures I'm a deeply curious person with interests in many fields. I love to study philosophy, psychology, and economics to better understand and to improve myself, my relationships, and the world around me.
 
-Although I've been developing software for more than 20 years now, I've pursued many other endeavours in my life as well.
+Although I've been developing software for more than 20 years now, I pursued many other endeavours in my life as well.
 
-As a kid I was on my way to becoming a classical flute player. At the age of 18 I found my passion for sports and started to intensively practice [Aikido](http://en.wikipedia.org/wiki/Aikido) for several years. Afterwards I started to train as a [cyclist](http://en.wikipedia.org/wiki/Road_bicycle_racing) and finally ended up doing [triathlon](http://en.wikipedia.org/wiki/Triathlon). I still enjoy training today, although on a less rigorous schedule.
+As a kid I was on my way to becoming a classical flute player. At the age of 18 I discovered my passion for sports and started to intensively practice [Aikido](http://en.wikipedia.org/wiki/Aikido) for several years. Afterwards I got into [cycling](http://en.wikipedia.org/wiki/Road_bicycle_racing) and finally ended up doing [triathlon](http://en.wikipedia.org/wiki/Triathlon). I still enjoy training today, although on a less rigorous schedule.
 
-My not so straightforward academic path just started after working as a freelancer for a few years by studying computer science and physics. But soon I dropped the latter to pursue the former. Eventually, I added sports science as a second subject and graduated in 2009. Afterwards I continued to work at university as research assistant in [sports biomechanics](http://en.wikipedia.org/wiki/Sports_biomechanics).
+My academic path started off a bit late after I had worked as a freelancer for a few years out of high school. Initially I couldn't decide between studying computer science and physics. But soon I dropped the latter to pursue the former. Eventually, I took up sports science as a second subject, graduated in 2009, and continued to work at university as research assistant in [sports biomechanics](http://en.wikipedia.org/wiki/Sports_biomechanics).
 
 After a while I decided to leave the world of academia. During my time as a student I had co-founded an elite sports consulting company that I now joined full-time. We mainly worked in track and field as well as in soccer with a focus on individual development and teaching movement technique.
 
