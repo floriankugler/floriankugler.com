@@ -5,3 +5,9 @@ task :deploy do
   system "bundle exec middleman s3_redirect"
   puts '## Deploy complete.'
 end
+
+task :publish do
+  puts '## Building and Deploying...'
+  system "bundle exec middleman build"
+  system "rake deploy"
+end

@@ -5,8 +5,6 @@
 Time.zone = "Berlin"
 
 PRODUCTION                      = ENV['PRODUCTION']
-SITE_NAME                       = 'floriankuger.com'
-URL_ROOT                        = 'http://www.floriankugler.com'
 AWS_BUCKET                      = PRODUCTION ? 'floriankugler.com' : 'staging.floriankugler.com'
 AWS_REGION                      = 'eu-west-1'
 AWS_ACCESS_KEY                  = ENV['PERSONAL_AWS_KEY']
@@ -75,7 +73,8 @@ configure :build do
 end
 
 
-
+redirect '/blog', '/'
+redirect '/talks', '/projects'
 redirect '/blog/2013/4/2/the-lack-of-self-knowledge-in-tv-movies', '/2013/03/24/the-lack-of-self-knowledge-in-tv-movies/'
 redirect '/blog/2013/4/2/making-autolayout-code-less-painful', '/2013/03/26/making-autolayout-code-less-painful/'
 redirect '/blog/2013/4/2/the-concurrent-core-data-stack', '/2013/04/02/the-concurrent-core-data-stack/'
