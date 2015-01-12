@@ -13,7 +13,7 @@ The notion that a negative cannot be proven hinges on whether the corresponding 
 
 I will argue that god, or any other supernatural entity for that matter, is exactly like that: it's a teapot that cannot possibly be proven to exist.
 
-The heart of the issue is the concept of the supernatural itself. Metaphysically it's impossible to define the supernatural. Any definition of the term has to rely on using its antithesis --- the natural --- in some form or another, since that is all we know. However, this makes the term supernatural synonymous to non-existence, since everything we gain knowledge about by definition moves into the realm of the natural, or simply the existing.
+The heart of the issue is the concept of the supernatural itself. Metaphysically it seems impossible to define the supernatural. Any definition of the term has to rely on using its antithesis --- the natural --- in some form or another, since that is all we know. However, this makes the term supernatural synonymous to non-existence, since everything we gain knowledge about by definition moves into the realm of the natural, or simply the existing.
 
 Any god or any supernatural phenomenon relies on having some kind of effect on the natural world --- something we can perceive or measure --- in order to be relevant at all. Once something has an effect on the natural world though, it has by definition moved from the supernatural to the natural world, or from non-existence to existence.
 
