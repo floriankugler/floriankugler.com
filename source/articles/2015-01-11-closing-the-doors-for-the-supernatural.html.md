@@ -5,7 +5,7 @@ published: false
 
 Never before have the critics of religion been as visible and as outspoken as they are today. People like [Sam Harris](http://www.samharris.org), [Richard Dawkins](https://twitter.com/richarddawkins), and [Lawrence Krauss](https://twitter.com/lkrauss1) have sold millions of books arguing for reason and against religion, and YouTube is a seemingly endless source of their debates with members of various religions.
 
-However, most of them, good scientists that they are, keep a door open, since negatives cannot be proven. In other words, they cannot prove that god does *not* exist. Although it's not rational to assume that a [teapot is orbiting the sun](http://en.wikipedia.org/wiki/Russell's_teapot) without any evidence, scientists will not preclude the possibility with 100% certainty, since absence of evidence is not evidence of absence.
+However, most of them, good scientists that they are, keep a door open, since negatives cannot be proven. To take a famous example, claiming that a [teapot is orbiting the sun](http://en.wikipedia.org/wiki/Russell's_teapot) without any evidence may be irrational, but proving the contrary is impossible. As unlikely as the hypothesis may seem, science can not preclude it with 100% certainty --- absence of evidence is not evidence of absence. In other words, they cannot prove that god does *not* exist.
 
 I disagree with this position. I think we *can* close that last door with confidence.
 
@@ -19,7 +19,7 @@ Any god or any supernatural phenomenon relies on having some kind of effect on t
 
 With this line being crossed, the previous attribution to the supernatural is lost. We wouldn't call anything measurable in the natural world a god. It would simply be a natural phenomenon, a really powerful space alien, or something like that.
 
-This is precisely why we can close the last door with 100% confidence: There cannot be a positive proof for the existence of a god, because no proof for *anything* supernatural can exist. Having proof for anything automatically moves that thing into the natural realm, stripping its status of being supernatural. A god for which we would have prove wouldn't be a god.
+This is precisely why we can close the last door with 100% confidence: There cannot be a positive proof for the existence of a god, because no proof for *anything* supernatural can exist. Having proof for something automatically moves that thing into the natural realm, stripping its status of being supernatural. A god for which we would have prove wouldn't be a god.
 
 While it might be entertaining to debate the historical accuracy, ethical standards, or compatibility with modern science of ancient books, at the end of the day all this is irrelevant to the basic issue at hand.
 
