@@ -1,6 +1,5 @@
 ---
 title: Forks in the Road
-published: false
 ---
 
 Every now and then there comes a time when the momentum of what you've been doing has ceased and a variety of different paths open up in front of you. Those moments are chances to reflect on what you have achieved, what's important to you and what makes you happy.
