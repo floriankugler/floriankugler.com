@@ -7,9 +7,9 @@ Never before have the critics of religion been as visible and as outspoken as th
 
 However, most of them, good scientists that they are, keep a door for the existence of a god open, since negatives cannot be proven. To take a famous example, claiming that a [teapot is orbiting the sun](http://en.wikipedia.org/wiki/Russell's_teapot) without any evidence may be irrational, but proving the contrary is impossible. As unlikely as the hypothesis may seem, science can not preclude it with 100% certainty --- absence of evidence is not evidence of absence. In other words, they cannot prove that god does *not* exist.
 
-I disagree with this position. I think we *can* close that last door with confidence.
+I disagree with this position. I think we can close that last door with confidence.
 
-The notion that a negative cannot be proven hinges on whether the corresponding positive *can* be proven. To take [Russel's teapot](http://en.wikipedia.org/wiki/Russell's_teapot) as an example: we cannot prove that it's not orbiting the sun somewhere, because it's impossible to look everywhere at the same time. Therefore we say that we don't have evidence for its existence, but we cannot be certain of its non-existence, because a simple positive observation would settle the case. However, if *no* methodology could exist to positively prove the teapot's existence, we could be absolutely sure of its non-existence.
+The notion that a negative cannot be proven hinges on whether the corresponding positive *can* be proven. To take [Russel's teapot](http://en.wikipedia.org/wiki/Russell's_teapot) as an example: we cannot prove that it's not orbiting the sun somewhere, because it's impossible to look everywhere at the same time. Therefore we say that we don't have evidence for its existence, but we cannot be certain of its non-existence either, because a single positive observation would settle the case. However, if *no* methodology could exist to positively prove the teapot's existence, we could be absolutely sure of its non-existence.
 
 I will argue that god, or any other supernatural entity for that matter, is exactly like that: it's a teapot that cannot possibly be proven to exist, and therefore there's no need to disprove its existence in order to be sure that it does not exist.
 
