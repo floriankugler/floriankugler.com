@@ -20,8 +20,6 @@ With this conceptual line being crossed, the previous attribution to the superna
 
 This is precisely why we can close the last door with 100% confidence: There cannot be a positive proof for the existence of a god, because no proof for *anything* supernatural can exist. Having proof for something automatically moves that thing into the natural realm, stripping its status of being supernatural. A god for which we would have prove wouldn't be a god.
 
-While it might be interesting to debate the historical accuracy, ethical standards, or compatibility with modern science of ancient books, at the end of the day all this doesn't get down to the bottom of the issue at hand.
-
 Any god --- and anything else called supernatural for that matter --- is a self-contradictory concept. It has been defined out of existence from the very beginning.
 
 So keep closing the doors.
