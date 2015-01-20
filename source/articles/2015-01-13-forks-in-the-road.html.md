@@ -4,6 +4,8 @@ title: Forks in the Road
 
 Every now and then there comes a time when the momentum of what you've been doing has ceased and a variety of different paths open up in front of you. Those moments are chances to reflect on what you have achieved, what's important to you and what makes you happy.
 
+READMORE
+
 My last year was pretty eventful: [objc.io](http://www.objc.io) kept growing, we released [Deckset](http://decksetapp.com) in April, authored a [book](http://www.objc.io/books) over the summer and published it in October, and finally we started working on a [new project](https://twitter.com/getscenery) that's due for release soon.
 
 A little while ago [Chris](https://twitter.com/chriseidhof) and I got a financially very attractive offer to work for another company. We were tempted, but in the end we declined. Nevertheless, going through this process inspired us to take a step back, to reassess where we stand, and to make a conscious decision of how we want to move forward, instead of just coasting along.
