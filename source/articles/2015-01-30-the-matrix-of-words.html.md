@@ -5,6 +5,8 @@ published: true
 
 Words are all around us. We speak words, hear words, write words, read words, think words, and dream words. Held together by grammatical rules, words are the fabric of our language --- and what a powerful tool this is. To be a positive force though, language has to rest on properly *defined* words. If the meaning of words gets corrupted, language can quickly lead us astray.
 
+READMORE
+
 A [definition](http://www.merriam-webster.com/dictionary/definition) is a statement describing the meaning of a word or symbol. In mathematics definitions are not all that exciting in themselves, because they are merely introducing new "language" for existing concepts. For example, the term [natural numbers](http://en.wikipedia.org/wiki/Natural_number) is just a new name for what we can describe as the set of numbers we use for counting. However, such well-defined terms serve as thinking tools, which enable us to think about more complex issues and to derive new insights.
 
 The situation is different though when it comes to our natural language. We use many words that represent complex issues, but most of the time we only have a somewhat intuitive understanding of their meaning. We don't have much trouble with words that map to physical things, but words that describe concepts are often less clear once you start thinking about them, e.g. "society", "justice", or "sports".

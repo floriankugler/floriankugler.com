@@ -6,11 +6,11 @@ Happy new year!
 
 Over the last ten days I've spent some time reconsidering the purpose of my personal blog, after I hadn't published much here over the past year.
 
-READMORE
-
 Since I started [objc.io](http://www.objc.io) in June 2013 with [Chris](https://twitter.com/chriseidhof) and [Daniel](https://twitter.com/danielboedewadt), I have directed all my efforts in technical writing towards it --- both by contributing my own articles as well as by doing editorial work. As a result it has been pretty quiet around here apart from occasional announcements.
 
 I want this to change.
+
+READMORE
 
 I still enjoy technical writing, but I'm deeply interested in and passionate about other topics as well. Since my technical writing already has a home at objc.io, I will use my personal blog to write about other topics from now on.
 
