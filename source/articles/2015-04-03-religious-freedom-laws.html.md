@@ -1,0 +1,42 @@
+---
+title: Religious Freedom Laws
+published: false
+---
+
+Recently Tim Cook came out with an [opinion piece](http://www.washingtonpost.com/opinions/pro-discrimination-religious-freedom-laws-are-dangerous-to-america/2015/03/29/bdb4ce9e-d66d-11e4-ba28-f2a685dc7f89_story.html) in the Washington Post opposing "religious freedom" legislation introduced in several states. 
+
+I want to take this opportunity to talk about some ideas underpinning this and prior legislation, as well as the sentiment expressed by Tim Cook itself. As always, it's helpful to zoom out in your mind from this particular issue to a broader perspective --- looking at the circumstances, the history, and the philosophical basis of the issue at hand to gain a deeper understanding.
+
+READMORE
+
+Tim Cook ends his piece with these words:
+
+> This isn’t a political issue. It isn’t a religious issue. This is about how we treat each other as human beings. Opposing discrimination takes courage. With the lives and dignity of so many people at stake, it’s time for all of us to be courageous.
+
+I couldn't agree more. However, I'm sure that my understanding of these lines is diametrically opposed to what what Tim Cook had in mind. 
+
+Fundamentally, this whole thing --- as any legislation --- is a moral issue. The basic moral crux doesn't lie in the act of discrimination itself though. The only reason that "religious freedom" legislation is enacted is prior legislation that outlawed discrimination in the first place. Let's look at those roots in more detail.
+
+First of all, I believe it's crucial to separate how you feel about this kind of discrimination from legislative actions banning or allowing it. With regard to the former, I'm confident that I'm on the same page with most of you, saying that people discriminating purely based on e.g. sexual orientation have a value system that's incompatible with mine and I wouldn't want to associate with them. The benefit of separating those feelings from the legislative issues is that we can examine the latter from a more rational point of view.
+
+We all discriminate against others in our personal and romantic, as well as professional relationships. Sometimes we do it for purely subjective reasons, other times there's a more objective rationale behind it. We do recognize though that we all have the right --- and the necessity --- to discriminate in various forms on the personal level, and that the act of discrimination itself is a peaceful one, i.e. we don't initiate violence against anybody by discriminating.
+
+If it's acceptable (in a moral sense, i.e. we might disagree with it but are not justified to use force to change the behavior) for someone as a *natural person* to discriminate against others based on e.g. political orientation or sexual preferences, this standard cannot suddenly be reversed when the same person stands behind the counter of his shop. Since only individuals have moral agency, introducing opposing moral standards for the same person under different circumstances leads to insurmountable contradictions in your moral system.
+
+At the beginning of his statement Tim Cook says:
+
+> A wave of legislation, introduced in more than two dozen states, would allow people to discriminate against their neighbors.
+
+The key word here is *allow*. If you don't allow somebody to do something, you have to prevent it from happening. Leaving all personal feelings aside, anti-discrimination laws come down to prohibiting peaceful actions using the threat of lethal force. Supporting this kind of legislation (or opposing legislation that tries to reverse it) means expressing consent with the threat and ultimately the use of lethal force against individuals for the act of refusing to engage with other individuals. 
+
+Would you be comfortable to pick up a gun yourself, walk up to an individual who would be targeted by anti-discrimination laws, and coerce him or her into acting otherwise? If you're not comfortable doing this, you shouldn't support the same thing by proxy either. And I sincerely hope you would be repelled by the mere idea.
+
+Tim Cook ends his statement with an appeal to courage:
+
+> Opposing discrimination takes courage. With the lives and dignity of so many people at stake, it’s time for all of us to be courageous.
+
+I'd argue that opposing discrimination in the form of supporting a particular legislation takes no courage. To the contrary, it's a cowardice act of supporting the use of force against peacefully acting individuals, as repulsive as their actions might seem to you. What really takes courage --- and what really makes a difference --- is to stand up against discrimination in your personal life, face to face. 
+
+In the abstract it's easy to advocate for laws whose enforcement you never have to witness, let alone enact. Voting for a politician or going to a rally is much easier than calling out the wrongdoings of people around you, engaging in conversations and ostracizing them if necessary. 
+
+Let's bring these issues down to a personal level, put down the gun of the law, and work towards peaceful solutions.
