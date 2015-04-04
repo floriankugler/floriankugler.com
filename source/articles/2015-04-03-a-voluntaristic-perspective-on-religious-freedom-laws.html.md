@@ -1,5 +1,5 @@
 ---
-title: Religious Freedom Laws
+title: A Voluntaristic Perspective on Religious Freedom Laws
 published: true
 ---
 
