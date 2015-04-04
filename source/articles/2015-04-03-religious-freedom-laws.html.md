@@ -17,7 +17,7 @@ Fundamentally, this whole thing --- as any legislation --- is a moral issue. The
 
 First of all, I believe it's crucial to separate how you feel about this kind of discrimination from legislative actions banning or allowing it. With regard to the former, I'm confident that I'm on the same page with most of you, saying that people discriminating purely based on e.g. sexual orientation have a value system that's incompatible with mine, and I wouldn't want to associate with them. The benefit of separating those feelings from the legislative issues is that we can examine the latter from a more rational point of view.
 
-Next, we have to acknowledge that we all discriminate against others in our personal, romantic, and professional relationships for all sorts of reasons. We do recognize though that we all have the right and the necessity to discriminate in various forms on the personal level, and that the act of discrimination itself is a peaceful one, i.e. we don't initiate violence against anybody by discriminating.
+Next, we have to acknowledge that we all discriminate against others in our personal, romantic, and professional relationships for all sorts of reasons. We do recognize though that we all have the right and the necessity to do so on the personal level, and that the act of discrimination itself is a peaceful one, i.e. we don't initiate violence against anybody by discriminating.
 
 If it's acceptable (in a moral sense, i.e. we might disagree with it but are not justified to use force to change the behavior) for someone as a *natural person* to discriminate against others based on e.g. political orientation or sexual preferences, this standard cannot suddenly be reversed when the same person stands behind the counter of his shop. Introducing opposing moral standards for the same person under different circumstances leads to insurmountable contradictions in your ethical system.
 
@@ -35,7 +35,7 @@ Tim Cook ends his statement with an appeal to courage:
 
 > Opposing discrimination takes courage. With the lives and dignity of so many people at stake, it’s time for all of us to be courageous.
 
-I'd argue that opposing discrimination in the form of supporting a particular legislation takes no courage. To the contrary, it's a cowardice act of supporting the use of force against peacefully acting individuals, as repulsive as their actions might seem to you. What really takes courage --- and what really makes a difference --- is to stand up against discrimination in your personal life, face to face. 
+I'd argue that opposing discrimination in the form of supporting a particular legislation takes no courage. To the contrary, it's a cowardice act of supporting the use of force against peacefully acting individuals, as undesirable as their actions might seem to you. What really takes courage --- and what really makes a difference --- is to stand up against discrimination in your personal life, face to face. 
 
 In the abstract it's easy to advocate for laws whose enforcement you never have to witness, let alone enact. Voting for a politician or going to a rally is much easier than calling out the wrongdoings of people around you, engaging in conversations, and accepting the personal and social consequences of standing up for what you believe.
 
