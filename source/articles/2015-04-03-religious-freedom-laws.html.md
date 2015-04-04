@@ -1,6 +1,6 @@
 ---
 title: Religious Freedom Laws
-published: false
+published: true
 ---
 
 Recently Tim Cook came out with an [opinion piece](http://www.washingtonpost.com/opinions/pro-discrimination-religious-freedom-laws-are-dangerous-to-america/2015/03/29/bdb4ce9e-d66d-11e4-ba28-f2a685dc7f89_story.html) in the Washington Post opposing "religious freedom" legislation introduced in several states. I want to take this opportunity to talk about the ethical implications of anti-discrimination laws, as well as the sentiment expressed by Tim Cook itself. 
