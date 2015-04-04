@@ -24,12 +24,12 @@ activate :directory_indexes
 activate :gzip
 
 activate :s3_sync do |s3_sync|
-  s3_sync.bucket                     = AWS_BUCKET
-  s3_sync.aws_access_key_id          = AWS_ACCESS_KEY
-  s3_sync.region                     = AWS_REGION
-  s3_sync.aws_secret_access_key      = AWS_SECRET
-  s3_sync.delete                     = true
-  s3_sync.prefer_gzip                = true
+  s3_sync.bucket                = AWS_BUCKET
+  s3_sync.aws_access_key_id     = AWS_ACCESS_KEY
+  s3_sync.region                = AWS_REGION
+  s3_sync.aws_secret_access_key = AWS_SECRET
+  s3_sync.delete                = PRODUCTION ? true : false
+  s3_sync.prefer_gzip           = true
 end
 
 default_caching_policy max_age:(60 * 60 * 24 * 365)
