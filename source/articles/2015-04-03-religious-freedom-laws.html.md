@@ -35,8 +35,8 @@ Tim Cook ends his statement with an appeal to courage:
 
 > Opposing discrimination takes courage. With the lives and dignity of so many people at stake, it’s time for all of us to be courageous.
 
-I'd argue that opposing discrimination in the form of supporting a particular legislation takes no courage. To the contrary, it's a cowardice act of supporting the use of force against peacefully acting individuals, as undesirable as their actions might seem to you. What really takes courage --- and what really makes a difference --- is to stand up against discrimination in your personal life, face to face. 
+I'd argue that opposing discrimination in the form of supporting a particular legislation takes no courage. To the contrary, you're hiding behind an abstract entity called the state to support the use of force against peacefully acting individuals, as undesirable as their actions might seem to you. I'd call that cowardice. 
 
-In the abstract it's easy to advocate for laws whose enforcement you never have to witness, let alone enact. Voting for a politician or going to a rally is much easier than calling out the wrongdoings of people around you, engaging in conversations, and accepting the personal and social consequences of standing up for what you believe.
+What really takes courage --- and what really makes a difference --- is to stand up against discrimination in your personal life, face to face. In the abstract it's easy to advocate for laws whose enforcement you never have to witness, let alone enact. Voting for a politician or going to a rally is much easier than calling out the wrongdoings of people around you, engaging in conversations, and accepting the personal and social consequences of standing up for what you believe.
 
 Let's bring these issues down to a personal level, put down the gun of the law, and work towards peaceful solutions.
