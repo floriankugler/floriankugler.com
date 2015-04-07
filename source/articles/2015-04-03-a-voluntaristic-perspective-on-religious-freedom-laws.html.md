@@ -21,7 +21,7 @@ Next, we have to acknowledge that we all discriminate against others in our pers
 
 If it's acceptable (in a moral sense, i.e. we might disagree with it but are not justified to use force to change the behavior) for someone as a *natural person* to discriminate against others based on e.g. political orientation, sexual preferences or any other trait, this standard cannot suddenly be reversed when the same person stands behind the counter of his shop. Introducing opposing moral standards for the same person under different circumstances leads to insurmountable contradictions in your ethical system.
 
-To drive this point home a bit further, consider the other side of economic transactions: If a store owner is not allowed to discriminate, why are the customers allowed to do so? How can it be fine for a customer to discriminate against a gay shop owner by bringing his business somewhere else, but not the other way round? They're both human beings subject to the same ethical standards.
+To drive this point home a bit further, consider the other side of economic transactions: If a store owner is not allowed to discriminate, why are the customers allowed to do so? How can it be legal for a customer to discriminate against a gay shop owner by bringing his business somewhere else, but not the other way round? They're both human beings subject to the same ethical standards.
 
 At the beginning of his statement Tim Cook says:
 
@@ -29,7 +29,7 @@ At the beginning of his statement Tim Cook says:
 
 The key word here is *allow*. If you don't allow somebody to do something, you have to prevent it from happening. Leaving all personal feelings aside, laws against discrimination are bans on otherwise peaceful actions enforced by the  threat of lethal force. If you support this kind of legislation (or oppose legislation that tries to reverse it), you're implicitly expressing consent with the threat and ultimately the use of lethal force against individuals for the act of refusing to engage with other individuals. 
 
-Would you be comfortable to pick up a gun yourself, walk up to an individual who would be targeted by anti-discrimination laws, and coerce him or her into acting otherwise? If you're not comfortable doing this --- and I sincerely hope you'd be repelled by the mere idea of it --- you only have two options: either you reject the same behavior by proxy of the state, or you admit that you're not opposed to this on principle, but you just want to keep your own hands clean.
+Would you be comfortable to pick up a gun yourself, walk up to an individual who would be targeted by anti-discrimination laws, and coerce him or her into acting otherwise? If you wouldn't be comfortable doing this --- and I sincerely hope you'd be repelled by the mere idea of it --- you only have two options: either you reject the same behavior by proxy of the state, or you admit that you're not opposed to this on principle, but you just want to keep your own hands clean.
 
 Tim Cook ends his statement with an appeal to courage:
 
