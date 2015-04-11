@@ -11,7 +11,7 @@ AWS_ACCESS_KEY                  = ENV['PERSONAL_AWS_KEY']
 AWS_SECRET                      = ENV['PERSONAL_AWS_SECRET']
 
 set :markdown_engine, :redcarpet
-set :markdown, :fenced_code_blocks => true, :smartypants => true
+set :markdown, :fenced_code_blocks => true, :smartypants => true, :footnotes => true
 
 activate :blog do |blog|
   blog.sources = "articles/{year}-{month}-{day}-{title}.html"
