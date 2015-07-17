@@ -9,7 +9,7 @@ There are generally three different ways of acquiring knowledge:
 2. Experience
 3. Science
 
-Logic allows us to derive axiomatic truths that are true independent of empirical validation, such as `2 + 2 = 4`. Personal experience is the kind of knowledge each of us accumulates by processing sense data and introspection. Lastly, science is the process of acquiring knowledge by testing hypothesis using objective measurements and statistics. 
+Logic allows us to derive axiomatic truths that are true independent of empirical validation, such as `2 + 2 = 4`. Personal experience is the kind of knowledge each of us accumulates by processing sense data and introspection. Lastly, science is the process of acquiring knowledge by testing hypothesis using objective measurements and statistics.
 
 Speaking from my own personal experience, scientific knowledge is often regarded to be more valuable than the the other two types, especially than knowledge won from personal experience. While there is truth to that in certain contexts, I think the value of scientific knowledge is misunderstood when it comes to decisions in your own life.
 
@@ -17,13 +17,13 @@ READMORE
 
 The method of empirical science --- testing hypotheses using objective and repeatable measurements --- works great in the realm of inanimate things. It has brought tremendous scientific and technical progress, and improved the quality of life of many. However, for increasingly complex subjects of investigation, the results become more fraught with uncertainty and all kinds of caveats, and their interpretation gets increasingly more difficult as well.[^1]
 
-[^1]: For an in-depth discussion of the issues surrounding empirical research in e.g. economics and the social sciences check out the book [Uncontrolled](http://www.amazon.com/Uncontrolled-Surprising-Trial-Error-Business-ebook/dp/B007V2VEQO/ref=tmm_kin_title_0?_encoding=UTF8&sr=&qid=) by Jim Manzi, or listen to [this episode of EconTalk](http://www.econtalk.org/archives/2012/06/manzi_on_knowle.html) to get a taste of it. *Disclaimer: I haven't read the book myself yet, but I got the recommendation from a friend whose judgement I trust in these matters.*
+[^1]: For an in-depth discussion of the issues surrounding empirical research in e.g. economics and the social sciences check out the book [Uncontrolled](http://www.amazon.com/Uncontrolled-Surprising-Trial-Error-Business-ebook/dp/B007V2VEQO/ref=tmm_kin_title_0?_encoding=UTF8&sr=&qid=) by Jim Manzi, or listen to [this episode of EconTalk](http://www.econtalk.org/archives/2012/06/manzi_on_knowle.html) to get a taste of it.
 
 At the core of empirical research is the collection of data and its analysis using statistics. Statistics can be [descriptive](https://en.wikipedia.org/wiki/Descriptive_statistics), such as the mean value or the standard deviation of a data set, or [inferential](https://en.wikipedia.org/wiki/Statistical_inference), i.e. you draw conclusions from data that's subject to some random variation and generalize those conclusions beyond the sample you investigated.
 
-I want to shine a light specifically on how conclusions drawn from inferential statistics might or might not be helpful to make decisions in your personal life. 
+I want to shine a light specifically on how conclusions drawn from inferential statistics might or might not be helpful to make decisions in your personal life.
 
-Let's take some fictional nutritional advice as an example --- an area where there's a seemingly endless stream of supposedly scientifically based advice thrown at us, and where we have to make decisions every day. 
+Let's take some fictional nutritional advice as an example --- an area where there's a seemingly endless stream of supposedly scientifically based advice thrown at us, and where we have to make decisions every day.
 
 Imagine you read about a study that showed that you're 50% more likely to become overweight when eating a carbohydrate rich vs. a low carbohydrate diet. Leaving all questions about such a study's methodology as well as the existence of potentially conflicting evidence aside, you could easily conclude that you're faced with the following dilemma in light of these new findings:
 
