@@ -15,6 +15,6 @@ I imagine that those ads go through lots of iterations and many different option
 
 May I make a radical suggestion: if you have the time and leisure to doodle the letters "SOS" on a tiny display after fiddling around with the crown to select the right person from the contacts list, how about simply saying that you're not interested and walking away? You know, like a mature adult.
 
-The people who decided to use this scene clearly thought that it would help in painting a picture of a young, exciting, and fun lifestyle -- one they'd like to associate with Apple Watch. To me this scene symbolizes insecurity and immaturity, packaged as a virtue and shipped to millions of people with the stamp of approval of the Apple logo.
+The people who decided to use this scene clearly thought that it would help in painting a picture of a young, exciting, and fun lifestyle -- one they'd like to associate with Apple Watch. To me it symbolizes insecurity and immaturity, packaged as a virtue and shipped to millions of people with the stamp of approval of the Apple logo.
 
-I get that it can be difficult to be honest and assertive, but that's exactly why positive examples in this regard are even more important. Putting the modern version of the rescue call on display like this is disempowering.
+I get that it can be difficult to be honest and assertive, but that's exactly why positive examples in this regard are even more important, rather than the disempowering role model on display in this ad.
