@@ -6,9 +6,9 @@ This is a very new endeavor I've started together with my friend Janne. It's in 
 
 This project is near and dear to me -- I feel strongly that this is an area where I can make a meaningful contribution to the world. For now this project is offline and local, but this will change in the future.
 
-## [Core Data](http://www.objc.io/books)
+## [Core Data](http://www.objc.io/books/core-data)
 
-In 2015 I started writing a book about Core Data with [Daniel Eggert](https://twitter.com/danielboedewadt) under the [objc.io](http://www.objc.io) umbrella. It will be available as early access version soon, with the final version coming later this summer. Sign up for the [objc.io newsletter](http://www.objc.io/newsletter/) to be notified. The book is focused around showing best practices by example, from simple persistency tasks to multithreading and syncing.
+In 2015 I started writing a book about Core Data with [Daniel Eggert](https://twitter.com/danielboedewadt) under the [objc.io](http://www.objc.io) umbrella. It's currently available as [early access version](http://www.objc.io/books/core-data),  with the final version coming later this summer. The book is focused around showing best practices by example, from simple persistency tasks to multithreading and syncing.
 
 ## [Scenery](https://twitter.com/getscenery)
 
